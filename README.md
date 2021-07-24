@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
 <h3 align="center">I'm a Competitve Programmer and Web developer who loves exploring new fields</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iq69" alt="iq69" /></a> </p>
+
 
 - 🔭 I’m currently working on **AirTennis Game**
 

@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iq69&show_icons=true&locale=en&layout=compact" alt="iq69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iq69&show_icons=true&locale=en" alt="iq69" /></p>
+
 
 

@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **AirTennis Game**
+- 🔭 I’m currently working on **Air Tennis Game**
 
 - 🌱 I’m currently learning **NODEJS**
 

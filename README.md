@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Air Tennis Game**
 
-- 🌱 I’m currently learning **NODEJS**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **3idiotsoneisme@gmail.com**
 
